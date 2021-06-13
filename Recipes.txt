@@ -2,3 +2,6 @@ Welcome
 
 Tea
 Pasta
+
+pizza
+capsicum
